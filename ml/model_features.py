@@ -1,0 +1,2 @@
+FEATURES = "message"
+TARGET = "class"
